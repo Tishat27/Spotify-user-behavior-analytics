@@ -8,7 +8,7 @@ This project presents an interactive **Power BI Dashboard** analyzing user behav
 
 ## 📸 Executive Summary / Preview
 *(💡 Tip: Take a screenshot of your 4 Power BI charts and upload the image here!)*
-![Spotify Dashboard Preview](path-to-your-image.png)
+![Spotify Dashboard Preview](dashboard_preview.png)
 
 ---
 
